@@ -17,8 +17,6 @@ pip install google-generativeai
 cls
 color 5
 cls
-pip install openai
-cls
 color 6
 cls
 pip install webbrowser_open

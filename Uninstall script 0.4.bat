@@ -17,8 +17,6 @@ pip uninstall google-generativeai
 cls
 color 5
 cls
-pip uninstall openai
-cls
 color 6
 cls
 pip uninstall webbrowser_open
